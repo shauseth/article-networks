@@ -1,4 +1,4 @@
-# Research Article Comparison Using Network Graphs
+# Visualising connections between Research Papers using Network Graphs
 
 If an research article mentions that Staph grow more rapidly in patients with oxidative stress and another research article outlines the factors that increase oxidative stress in the body, the fact that those factors will affect the severity of a Staph infection won't be known until someone connects the dots.
 
