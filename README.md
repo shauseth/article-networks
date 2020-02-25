@@ -2,7 +2,7 @@
 
 If a research paper mentions that staph grow more rapidly in patients with oxidative stress and another outlines the factors that increase oxidative stress in the body, the fact that those factors will affect the severity of a staph infection won't be known until someone connects the dots.
 
-[This script](/12_final.ipynb) literally connects the dots by taking pmids as input and creating a network graph showing how the article are related. Each pair of articles is given a score using a similarity function which compares the keywords, titles and abstracts of the articles. The network graph thus created shows indirect relationships between artciles that would otherwise be hidden.
+[This script](/12_final.ipynb) literally connects the dots by taking pmids as input and creating a network graph showing how the article are related. Each pair of articles is given a score using a similarity function which compares the keywords, titles and abstracts of the articles. The network graph thus created shows indirect relationships between articles that would otherwise be hidden.
 
 ![Network Graph](/graph.png)
 
