@@ -4,4 +4,5 @@ If an research article mentions that Staph grow more rapidly in patients with ox
 
 This script literally connects the dots by taking pmids as input and creating a network graph showing how the article are related. Each pair of articles is given a score using a similarity function which compares the keywords, titles and abstracts of the articles. The network graph thus created shows indirect relationships between artciles that would otherwise be hidden.
 
-[Pubmed Parser](https://github.com/titipata/pubmed_parser) was used for extracting the articles.
+[Pubmed Parser](https://titipata.github.io/pubmed_parser/) was used for extracting the articles.
+[NetworkX](https://networkx.github.io/documentation/stable/) was used for creating the network graphs.
